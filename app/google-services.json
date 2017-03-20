@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "436822218019",
+    "firebase_url": "https://fir-notificationexam-bf3e2.firebaseio.com",
+    "project_id": "fir-notificationexam-bf3e2",
+    "storage_bucket": "fir-notificationexam-bf3e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436822218019:android:6eb77e37273e4d1f",
+        "android_client_info": {
+          "package_name": "com.gnirt69.firebasenotificationexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436822218019-8cr4692jc8jhgbsq8a8cj999cmb89caq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhyIQ7ZI4I2RfrhR2eceVF0cAUkj6zUUA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
